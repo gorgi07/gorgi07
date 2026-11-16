@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hi, I'm Egor aka Gorgio 👋
 
-<!--
-**gorgi07/gorgi07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Software Engineer
 
-Here are some ideas to get you started:
+Building reliable backend systems with a focus on
+software architecture, performance and maintainability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Software Engineering Student @ [ITMO University](https://itmo.ru/)
+
+## Tech Stack
+
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/Go-161B22?style=for-the-badge&logo=go&logoColor=00ADD8" />
+  <img src="https://img.shields.io/badge/Kotlin-161B22?style=for-the-badge&logo=kotlin&logoColor=7F52FF" />
+  <img src="https://img.shields.io/badge/Java-161B22?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
+  <img src="https://img.shields.io/badge/Spring_Boot-161B22?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
+  <img src="https://img.shields.io/badge/FastAPI-161B22?style=for-the-badge&logo=fastapi&logoColor=009688" />
+</p>
+
+### Data
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-161B22?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/SQLite-161B22?style=for-the-badge&logo=sqlite&logoColor=003B57" />
+  <img src="https://img.shields.io/badge/Flyway-161B22?style=for-the-badge&logo=flyway&logoColor=CC0200" />
+  <img src="https://img.shields.io/badge/Redis-161B22?style=for-the-badge&logo=redis&logoColor=FF4438" />
+  <img src="https://img.shields.io/badge/MongoDB-161B22?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+</p>
+
+### Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Docker-161B22?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Linux-161B22?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Nginx-161B22?style=for-the-badge&logo=nginx&logoColor=009639" />
+  <img src="https://img.shields.io/badge/GitLab_CI%2FCD-161B22?style=for-the-badge&logo=gitlab&logoColor=FC6D26" />
+</p>
+
+### Testing & Tools
+<p>
+  <img src="https://img.shields.io/badge/Swagger-161B22?style=for-the-badge&logo=swagger&logoColor=85EA2D" />
+  <img src="https://img.shields.io/badge/Gradle-161B22?style=for-the-badge&logo=gradle&logoColor=23A8B3" />
+  <img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032" />
+</p>
+
+## GitHub Statistics
+
+<p align="center">
+  <img width="54%" src="https://github-stats-extended.vercel.app/api?username=gorgi07&show_icons=true&hide_border=true&theme=transparent" />
+  <img width="42%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gorgi07&layout=compact&hide_border=true&theme=transparent" />
+</p>
+
+---
+<div align="center">
+  
+### Community
+
+Sharing ideas, projects and experiences in software development.
+
+[![Telegram Channel](https://img.shields.io/badge/Telegram-69_%2B_52_TEAM-161B22?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/TEAM_69_52)
+
+</div>
+
+---
+
+<div align="center">
+
+### Contact Me
+
+[![Telegram](https://img.shields.io/badge/Telegram-Contact_Me-161B22?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/Erokhin_Egor)
+[![GitHub](https://img.shields.io/badge/GitHub-gorgi07-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gorgi07)
+
+</div>
