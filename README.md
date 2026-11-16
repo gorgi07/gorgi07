@@ -65,9 +65,13 @@ Sharing ideas, projects and experiences in software development.
 
 <div align="center">
 
-### Contact Me
+<h3>Contact Me</h3>
 
-[![Telegram](https://img.shields.io/badge/Telegram-Contact_Me-161B22?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/Erokhin_Egor)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:erokhin.egor07@gmail.com)
+<a href="https://t.me/Erokhin_Egor">
+  <img src="https://img.shields.io/badge/Telegram-Contact_Me-161B22?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram" />
+</a>
+<a href="mailto:erokhin.egor07@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+</a>
 
 </div>
