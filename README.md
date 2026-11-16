@@ -68,6 +68,6 @@ Sharing ideas, projects and experiences in software development.
 ### Contact Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-Contact_Me-161B22?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/Erokhin_Egor)
-[![GitHub](https://img.shields.io/badge/GitHub-gorgi07-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gorgi07)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:erokhin.egor07@gmail.com)
 
 </div>
